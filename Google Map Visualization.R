@@ -43,7 +43,7 @@ ggmap(sq_map3) +
 # GPS readings at short intervals.
 # We can plot the route like this:
 
-bike <- read.csv("data/bike-ride.csv")
+bike <- read.csv("C:\\Users\\its_t\\Documents\\CUNY\\Fall 2019\\9750 - Software Tools and Techniques_Data Science\\bike-ride.csv")
 head(bike)
 bikemap1 <- get_map(location = c(-122.080954, 36.971709), maptype = "terrain", source = "google", zoom = 14)
 
