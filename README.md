@@ -3,3 +3,5 @@ This exercise is to visualize real geographical maps in R and then classify it b
 
 Ref: http://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html
 The above link is what taught me the map method and I am working on it to reproduce the results and build more on the features.
+
+Data points needed to do the research is shared seperately. Population/ area level info for analysis can be obtained through wikipedia or using this link -https://www.california-demographics.com/counties_by_population.
